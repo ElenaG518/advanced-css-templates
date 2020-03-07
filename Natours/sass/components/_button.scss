@@ -28,11 +28,11 @@
 
   &--white {
     color: $color-gray-dark;
-    background-color: $color-white;
+    background-color: $color-primary-blue;
 
     &::after {
       content: '';
-      background-color: $color-white;
+      background-color: $color-primary-red;
     }
   }
 
